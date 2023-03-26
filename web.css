@@ -171,7 +171,7 @@ body {
 
 /* start landing */
 .landing {
-    background-image: url(images/istockphoto-1206682986-612x612.jpg);
+    background-image: url(Images/istockphoto-1206682986-612x612.jpg);
     background-size: cover;
     height: calc(100vh - 72px);
     position: relative;
